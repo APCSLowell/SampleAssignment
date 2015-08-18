@@ -5,7 +5,7 @@ This Sample Assignment that will go through the workflow of git and GitHub.
 
 For AP Computer Science, you will be using services called Git and GitHub. Git and GitHub allow you to work as a team with other programmers on the same project and to post your finished assignments on the internet. In many ways, Git and GitHub are like google docs for programmers. Git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with Git and GitHub or something like Git and GitHub. 
 
-IMPORTANT: You must do all the following 18 steps in precisely the same order. If you get to a step you don't understand, don't go on to the next step until you get your question answered.
+IMPORTANT: You must do all the following steps in precisely the same order. If you get to a step you don't understand, don't go on to the next step until you get your question answered.
 
 1. Sign up for a free GitHub account if you don’t already have one. If you don’t have a GitHub account, go to GitHub.com and sign up. Otherwise go to Step 2.
 
@@ -22,29 +22,27 @@ IMPORTANT: You must do all the following 18 steps in precisely the same order. I
 6. Open the apjava folder. Your apjava folder should be located at  
 `C:\Users\ < Your User Name > \Documents\apjava`  
 
-The following five commands should navigate to your apjava folder:  
+6. The following five commands should navigate to your apjava folder:  
 `cd c:`  
 `cd users`  
 `cd < Your User Name >`  
 `cd documents`  
 `cd apjava`  
 
-If you don't have an apjava folder at that location, one way to create one is to navigate to the Documents folder and type the command `mkdir apjava`
+7. If you don't have an apjava folder at that location, one way to create one is to navigate to the Documents folder and type the command `mkdir apjava`
 
 8. Clone the Forked SampleAssignment. Cloning is like downloading a file from google docs. We need the program Git Bash to do the cloning. Make sure that your are in your apjava folder with the Unix command `pwd`. Then type `git clone`. Then press the *insert* key to paste in the URL you copied in Step 4. Your Git Bash window should look similar to this one.  
 ![Image 3](/images/SampleAssignment3.png)
 
-9. Open the program Sublime
-
-Sublime is an editor. It's like a word processor for code. We will use Sublime to personalize our web page.
+9. Open the program Sublime. Sublime is an editor. It's like a word processor for code. We will use Sublime to personalize our web page. Go to the Start Menu and choose *All Programs | Sublime Text 3*.
 
 10. Open the *SampleAssignment* folder in Sublime. Make sure to choose *File | Open Folder*. Click on *SampleAssignment* and choose *Select Folder*.  
 ![Image 4](/images/SampleAssignment4.png)
 
-Click on the arrow next to *SampleAssignment* to reveal all the documents in the folder  
+10. Click on the arrow next to *SampleAssignment* to reveal all the documents in the folder  
 ![Image 5](/images/SampleAssignment5.png)
 
-Then click on *index.html* to reveal the code  
+11. Then click on *index.html* to reveal the code  
 ![Image 6](/images/SampleAssignment6.png)
 
 11. Change *index.html* to use your first name. *index.html* is the webpage that loads your program. You are going to change *index.html* to use your first name. (To protect your privacy, you should not use your full and complete name on any webpage you create for a school assignment). Change the text on line 4, 11 and 18 to personalize the text with your first name. Then choose *File | Save*  
@@ -62,7 +60,7 @@ Then click on *index.html* to reveal the code
 15. `commit` the 4 files. When we `commit` we are packaging up the 4 files they we want to share on our GitHub website. You can imagine `commit` as placing the 4 files in an envelope with a coversheet that explains the contents. First we can check to see if our files are ready to commit by typing `git status`.  
 ![Image 11](/images/SampleAssignment11.png)
 
-Type `git commit -m "Added first name to index.html"`.  Press *enter*.  
+15. Type `git commit -m "Added first name to index.html"`.  Press *enter*.  
 ![Image 12](/images/SampleAssignment12.png)
 
 
