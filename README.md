@@ -1,7 +1,7 @@
 Sample Assignment
 ================
 
-This Sample Assignment that will go through the workflow of git and GitHub. 
+This Sample Assignment will go through the workflow of git and GitHub that you will use for your subsequent assignments. 
 
 For AP Computer Science, you will be using services called Git and GitHub. Git and GitHub allow you to work as a team with other programmers on the same project and to post your finished assignments on the internet. In many ways, Git and GitHub are like google docs for programmers. Git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with Git and GitHub or something like Git and GitHub. 
 
