@@ -1,4 +1,4 @@
-Sample Assignment
+Sample Assignment - (Advanced Workflow)
 ================
 
 This Sample Assignment will go through the workflow of git and GitHub that you will use for your subsequent assignments. 
