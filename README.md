@@ -9,7 +9,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 
 1. Sign up for a free GitHub account if you don’t already have one and sign in to your GitHub account
 
-3. Fork the SampleAssignment here at https://GitHub.com/APCSLowell/SampleAssignment. Forking is making a copy of the of the *repo* (that's short for repository). It's like copying a google doc. Click on the *Fork* button at the top right corner.  
+3. Fork [this repository](https://GitHub.com/APCSLowell/SampleAssignment). Forking is making a copy of the of the *repo* (that's short for repository). It's like copying a google doc. Click on the *Fork* button at the top right corner.  
 ![Image 1](/images/SampleAssignment1.PNG)
 
 4. Go to the area of the screen marked *HTTPS clone URL* and click on the *copy to clipboard* button.  
