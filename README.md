@@ -1,9 +1,9 @@
 Sample Assignment - (Advanced Workflow)
 ================
 
-This Sample Assignment will go through the workflow of git and GitHub that you will use for your subsequent assignments. 
+This Sample Assignment will go through an altenative and more advanced workflow that uses git, GitHub and the Sublime text editor. This workflow simulates professional development.  You should use this OR the basic workflow. Mixing the two work flows with cause problems.
 
-For AP Computer Science, you will be using services called Git and GitHub. Git and GitHub allow you to work as a team with other programmers on the same project and to post your finished assignments on the internet. In many ways, Git and GitHub are like google docs for programmers. Git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with Git and GitHub or something like Git and GitHub. 
+Git and GitHub allow you to work as a team with other programmers on the same project and to manage different versions of that project. In many ways, Git and GitHub are like google docs for programmers. Git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with Git and GitHub or something like Git and GitHub. 
 
 IMPORTANT: You must do all the following steps in precisely the same order. If you get to a step you don't understand, don't go on to the next step until you get your question answered.
 
