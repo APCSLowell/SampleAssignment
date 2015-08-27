@@ -1,9 +1,9 @@
 Sample Assignment - (Advanced Workflow)
 ================
 
-This Sample Assignment will go through an altenative and more advanced workflow that uses git, GitHub and the Sublime text editor. This workflow simulates professional software development.  You should use this OR the basic workflow. Mixing the two workflows will cause problems.
+This Sample Assignment will go through an alternative and more advanced workflow that uses git, GitHub and the Sublime text editor. This workflow simulates professional software development.  You should use this OR the basic workflow. Mixing the two workflows will cause problems.
 
-Git and GitHub allow you to work as a team with other programmers on the same project and to manage different versions of that project. In many ways, Git and GitHub are like google docs for programmers. Git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with Git and GitHub or something like Git and GitHub. 
+git and GitHub allow you to work as a team with other programmers on the same project and to manage different versions of that project. In many ways, git and GitHub are like google docs for programmers. git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with git and GitHub or something like git and GitHub. 
 
 IMPORTANT: You must do all the following steps in precisely the same order. If you get to a step you don't understand, don't go on to the next step until you get your question answered.
 
@@ -32,7 +32,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 8. Clone the Forked SampleAssignment. Cloning is like downloading a file from google docs. We need the program Git Bash to do the cloning. Make sure that your are in your apjava folder with the Unix command `pwd`. Then type `git clone`. Then press the *insert* key to paste in the URL you copied in Step 4. Your Git Bash window should look similar to this one.  
 ![Image 3](/images/SampleAssignment3.png)
 
-9. Open the program Sublime. Sublime is an editor. It's like a word processor for code. We will use Sublime to personalize our web page. Go to the Start Menu and choose *All Programs | Sublime Text 3*.
+9. Open the program Sublime. Sublime is a text editor. It's like a word processor for code. We will use Sublime to personalize our web page. Go to the Start Menu and choose *All Programs | Sublime Text 3*.
 
 10. Open the *SampleAssignment* folder in Sublime. Make sure to choose *File | Open Folder*. Click on *SampleAssignment* and choose *Select Folder*.  
 ![Image 4](/images/SampleAssignment4.png)
