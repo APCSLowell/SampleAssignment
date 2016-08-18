@@ -15,7 +15,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 4. Go to the area of the screen marked *HTTPS clone URL* and click on the *copy to clipboard* button.  
 ![Image 2](/images/SampleAssignment2.png)
 
-5. Start Git Bash. Git Bash gives you the ability to use Unix commands on Windows PC. Go to the Windows Start Menu and double click Git Bash. It will be listed under All Programs.
+5. Start Git Bash. Git Bash gives you the ability to use Unix commands on Windows PC. Go to the Windows Start Menu and double click Git Bash. It will be listed under *All Apps | Git*.
 
 6. Open the apjava folder. Your apjava folder should be located at  
 `C:\Users\ < Your User Name > \Documents\apjava`  
