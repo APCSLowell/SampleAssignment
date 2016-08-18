@@ -72,4 +72,4 @@ as the URL. You should see a webpage like this one.
 
 18. OPTIONAL: If you have extra time, feel free to change the code in the *SampleAssignment.pde* file to make a different design.
 
-18. Submit the URL of your finished assignment to the dropbox in school loop
+18. Add the URL link of your finished assigned to your school loop locker. Then, submit the URL by choosing *Submit Work: Locker*
