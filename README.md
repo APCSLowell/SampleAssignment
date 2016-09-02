@@ -1,7 +1,7 @@
 Sample Assignment - (Advanced Workflow)
 ================
 
-This Sample Assignment will go through an alternative and more advanced workflow that uses git, GitHub and the Sublime text editor. This workflow simulates professional software development.  You should use this OR the basic workflow. Mixing the two workflows will cause problems.
+This Sample Assignment will go through an alternative and more advanced workflow that uses git, GitHub and the Sublime text editor. This workflow simulates professional software development.  You may find the PowerPoint slides 24 to 71 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful in understanding this advanced workflow and configuring the Sublime program. You should use this OR the basic workflow. Mixing the two workflows will cause problems.
 
 git and GitHub allow you to work as a team with other programmers on the same project and to manage different versions of that project. In many ways, git and GitHub are like google docs for programmers. git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with git and GitHub or something like git and GitHub. 
 
