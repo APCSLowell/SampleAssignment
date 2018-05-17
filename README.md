@@ -1,7 +1,7 @@
 Sample Assignment - (Advanced Workflow)
 ================
 
-This Sample Assignment will go through an alternative and more advanced workflow that uses git, GitHub and the Sublime text editor. This workflow simulates professional software development.  You may find the PowerPoint slides 77 to 121 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful in understanding this advanced workflow and configuring the Sublime program. You should use this OR the basic workflow. Mixing the two workflows will cause problems.
+This Sample Assignment will go through an alternative and more advanced workflow that uses git, GitHub and the Atom or Sublime text editors. This workflow simulates professional software development.  You may find the PowerPoint slides 77 to 121 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful in understanding this advanced workflow and configuring the Sublime program. You should use this OR the basic workflow. Mixing the two workflows will cause problems.
 
 git and GitHub allow you to work as a team with other programmers on the same project and to manage different versions of that project. In many ways, git and GitHub are like google docs for programmers. git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with git and GitHub or something like git and GitHub. 
 
@@ -32,15 +32,13 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 8. Clone the Forked SampleAssignment. Cloning is like downloading a file from google docs. We need the program Git Bash to do the cloning. Make sure that your are in your apjava folder with the Unix command `pwd`. Then type `git clone`. Then press the *insert* key to paste in the URL you copied in Step 4. Your Git Bash window should look similar to this one.  
 ![Image 3](/images/SampleAssignment3.png)
 
-9. Open the program Sublime. Sublime is a text editor. It's like a word processor for code. We will use Sublime to personalize our web page. Go to the Start Menu and choose *All Programs | Sublime Text 3*.
+9. Open the folder ("repo") in Atom or Sublime. Atom and Sublime are text editors, like a word processor for code. We will edit the `index.html` file to personalize our web page. Go to the Start Menu and choose *All Programs | GitHub, inc. | Atom* or *All Programs | Sublime Text 3*.
 
-10. Open the *SampleAssignment* folder in Sublime. Make sure to choose *File | Open Folder*. Click on *SampleAssignment* and choose *Select Folder*.  
+10. Open the *SampleAssignment* folder. Make sure to choose *File | Open Folder*. Folder*.  
 ![Image 4](/images/SampleAssignment4.png)
 
-10. Click on the arrow next to *SampleAssignment* to reveal all the documents in the folder  
-![Image 5](/images/SampleAssignment5.png)
 
-11. Then click on *index.html* to reveal the code  
+11. Then open *index.html* to reveal the code  
 ![Image 6](/images/SampleAssignment6.png)
 
 11. Change *index.html* to use your first name. *index.html* is the webpage that loads your program. To protect your privacy, you should not use your full and complete name on any webpage you create for a school assignment. Change the text on line 4, 11 and 18 to personalize the text with your first name. Then choose *File | Save*.  **Don't change the name of index.html. It must be called "index."**
