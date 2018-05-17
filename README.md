@@ -62,7 +62,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 ![Image 12](/images/SampleAssignment12.png)
 
 
-16. `push` the modified SampleAssignment to the remote repository on your GitHub account. We `push` the modified files to our remote GitHub site by typing the code `git push origin master`. You'll be prompted for your *GitHub* username and password. **Note that your password is secured. It is not displayed when you enter it.** After you enter your credentials, you should see a screen like this one.  
+16. `push` the modified SampleAssignment to the remote repository on your GitHub account. We `push` the modified files to our remote GitHub site by typing the code `git push origin master`. You'll be prompted for your *GitHub* username and password. After you enter your credentials, you should see a screen like this one.  
 ![Image 13](/images/SampleAssignment13.png)
 
 17. The hard work is done! Now you can see your program on the web. First, be patient. It may take 15 minutes or so before your first web page is ready. Then, open up a browser like Google chrome and enter  
