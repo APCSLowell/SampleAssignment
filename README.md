@@ -71,4 +71,3 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 
 18. OPTIONAL: If you have extra time, feel free to change the code in the *SampleAssignment.pde* file to make a different design.
 
-18. Add the URL link of your finished assigned to google classroom.
