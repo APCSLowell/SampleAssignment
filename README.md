@@ -50,9 +50,6 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 13. `add` all 4 files to be "staged." To add all 4 files you can type either `git add .`, `git add -A` or `git add –-all`. Check the results of your add by typing `git status`. Your screen should look similar to this:  
 ![Image 9](/images/SampleAssignment9.png)
 
-14. Configure your username and password. git needs to be configured to your user email and user name. You configure your user name with the code git `config --global user.name < your user name >`. For example, if your user name was `MaxwellG` you would type `git config --global user.name MaxwellG`. You configure your email with the similar code `git config --global user.email < your email address >`. You can check to see that you've correctly configured your username and password by typing  `git config user.name` and  `git config user.email`. Your screen should look similar to this:  
-![Image 10](/images/SampleAssignment10.png)
-
 15. `commit` the 4 files. When we `commit` we are packaging up the 4 files they we want to share on our GitHub website. You can imagine `commit` as placing the 4 files in an envelope with a coversheet that explains the contents. First we can check to see if our files are ready to commit by typing `git status`.  
 ![Image 11](/images/SampleAssignment11.png)
 
