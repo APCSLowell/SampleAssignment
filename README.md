@@ -1,7 +1,7 @@
-Sample Assignment - (Advanced Workflow)
+Sample Assignment
 ================
 
-This Sample Assignment will go a workflow that uses git, GitHub and the Sublime text editor to model professional software development.  You may find the slides 119 to 150 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation helpful in understanding this advanced workflow and configuring the Sublime program. You should use this OR the basic workflow. Mixing the two workflows will cause problems.
+This Sample Assignment will go through a workflow that uses git, GitHub and the Sublime text editor to model professional software development.  You may find the slides 119 to 150 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation helpful in understanding this workflow and configuring the Sublime program. 
 
 git and GitHub allow you to work as a team with other programmers on the same project and to manage different versions of that project. In many ways, git and GitHub are like google docs for programmers. git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with git and GitHub or something like git and GitHub. 
 
@@ -50,10 +50,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 13. `add` all 4 files to be "staged." To add all 4 files you can type either `git add .`, `git add -A` or `git add –-all`. Check the results of your add by typing `git status`. Your screen should look similar to this:  
 ![Image 9](/images/SampleAssignment9.png)
 
-15. `commit` the 4 files. When we `commit` we are packaging up the 4 files they we want to share on our GitHub website. You can imagine `commit` as placing the 4 files in an envelope with a coversheet that explains the contents. First we can check to see if our files are ready to commit by typing `git status`.  
-![Image 11](/images/SampleAssignment11.png)
-
-15. Type `git commit -m "Add first name to index.html"`.  Press *enter*.  
+15. `commit` the 4 files. When we `commit` we are labeling this version of our program with a message. We should use a different message for each commit that describes the particular change we made. Type `git commit -m "Add first name to index.html"`.  Press *enter*.  
 ![Image 12](/images/SampleAssignment12.png)
 
 
