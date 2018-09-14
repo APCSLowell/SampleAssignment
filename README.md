@@ -57,7 +57,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 16. `push` the modified SampleAssignment to the remote repository on your GitHub account. We `push` the modified files to our remote GitHub site by typing the code `git push origin master`. You'll be prompted for your *GitHub* username and password. After you enter your credentials, you should see a screen like this one.  
 ![Image 13](/images/SampleAssignment13.png)
 
-17. To enable a web page for your program, to the GitHub website and login. Click on *Settings* for your repository. 
+17. To enable a web page for your program, go to the GitHub website and login. Click on *Settings* for your repository. 
 ![Image 9](/images/Settings.png)
 
 17. Scroll down to the area marked *GitHub Pages*, and choose *Master branch*. Click save and you should see a message with the URL of your webpage   
