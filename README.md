@@ -44,7 +44,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 11. Change the generic title, headline and footer in *index.html* to personalize it. *index.html* is the webpage that loads your program. To protect your privacy, you should not use your full and complete name on any webpage you create for a school assignment. Change the text on line 4, 11 and 18, then choose *File | Save*.  **Don't change the name of index.html. It must be called "index."**
 ![Image 7](/images/SampleAssignment7.png)
 
-12. Go back to the Git Bash program and navigate to the *SampleAssignment* folder. Check your current location by typing `pwd`, (your *present working directory*). Navigate to the *apjava folder* and then type `ls` to list the files and folders. You should see a screen similar to this:  
+12. Go back to the Git Bash program and navigate to the *SampleAssignment* folder. Check your current location by typing `pwd`, (your *present working directory*). Type `ls` to list the files and folders. You should see a screen similar to this:  
 ![Image 8](/images/SampleAssignment8.png)
 
 13. `add` all 4 files to be "staged." To add all 4 files you can type either `git add .`, `git add -A` or `git add –-all`. Check the results of your add by typing `git status`. Your screen should look similar to this:  
