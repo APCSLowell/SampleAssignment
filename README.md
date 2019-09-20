@@ -32,16 +32,16 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 8. Clone the Forked SampleAssignment. Cloning is like downloading a file from google docs. We need the program Git Bash to do the cloning. Make sure that your are in your apjava folder with the Unix command `pwd`. Then type `git clone`. Then press the *insert* key to paste in the URL you copied in Step 4. Your Git Bash window should look similar to this one.  
 ![Image 3](/images/SampleAssignment3.png)
 
-9. Open the folder ("repo") in Atom or Sublime. Atom and Sublime are text editors, like a word processor for code. We will edit the `index.html` file to personalize our web page. Go to the Start Menu and choose *All Programs | GitHub, inc. | Atom* or *All Programs | Sublime Text 3*.
+9. Open the folder ("repo") in Sublime. Sublime is a text editor, like a word processor for code. We will edit the `index.html` file to personalize our web page. Go to the Start Menu and choose *All Programs | Sublime Text 3*.
 
-10. Open the *SampleAssignment* folder. Make sure to choose *File | Open Folder*. Folder*.  
+10. Open the *SampleAssignment* folder. Make sure to choose *File | Open Folder*.  
 ![Image 4](/images/SampleAssignment4.png)
 
 
 11. Then open *index.html* to reveal the code  
 ![Image 6](/images/SampleAssignment6.png)
 
-11. Change *index.html* to use your first name. *index.html* is the webpage that loads your program. To protect your privacy, you should not use your full and complete name on any webpage you create for a school assignment. Change the text on line 4, 11 and 18 to personalize the text with your first name. Then choose *File | Save*.  **Don't change the name of index.html. It must be called "index."**
+11. Change the generic title, headline and footer in *index.html* to personalize it. *index.html* is the webpage that loads your program. To protect your privacy, you should not use your full and complete name on any webpage you create for a school assignment. Change the text on line 4, 11 and 18, then choose *File | Save*.  **Don't change the name of index.html. It must be called "index."**
 ![Image 7](/images/SampleAssignment7.png)
 
 12. Go back to the Git Bash program and navigate to the *SampleAssignment* folder. Check your current location by typing `pwd`, (your *present working directory*). Navigate to the *apjava folder* and then type `ls` to list the files and folders. You should see a screen similar to this:  
