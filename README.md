@@ -66,5 +66,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 17. The hard work is done! Now you can see your program on the web. First, be patient. It may take 15 minutes or so before your first web page is ready. Then, open up a browser like Google chrome and enter the URL you saw in the previous step in *Settings*. You should see a webpage like this one.   
 ![Image 14](/images/SampleAssignment14.PNG)
 
-18. OPTIONAL: If you have extra time, feel free to change the code in the *SampleAssignment.pde* file to make a different design.
+18. Submit the URL of your webpage to Google classroom
+
+19. OPTIONAL: If you have extra time, feel free to change the code in the *SampleAssignment.pde* file to make a different design.
 
