@@ -1,7 +1,7 @@
 Sample Assignment
 ================
 
-This Sample Assignment will go through a workflow that uses git, GitHub and the Sublime text editor to model professional software development.  You may find the slides 119 to 150 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation helpful in understanding this workflow and configuring the Sublime program. 
+This Sample Assignment will go through a workflow that uses git, GitHub and the Sublime text editor to model professional software development.  You may find the slides beginning with 19 of the [apjavaGitHub](https://docs.google.com/presentation/d/1cZCHVE-uhjBDKu7bRKYKheRbYDhsFWKiydWx1dScvyc/edit?usp=sharing) slide presentation helpful in understanding this workflow and configuring the Sublime program. 
 
 git and GitHub allow you to work as a team with other programmers on the same project and to manage different versions of that project. In many ways, git and GitHub are like google docs for programmers. git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with git and GitHub or something like git and GitHub. 
 
