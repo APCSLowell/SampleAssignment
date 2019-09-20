@@ -41,7 +41,7 @@ IMPORTANT: You must do all the following steps in precisely the same order. If y
 11. Then open *index.html* to reveal the code  
 ![Image 6](/images/SampleAssignment6.png)
 
-11. Change the generic title, headline and footer in *index.html* to personalize it. *index.html* is the webpage that loads your program. To protect your privacy, you should not use your full and complete name on any webpage you create for a school assignment. Change the text on line 4, 11 and 18, then choose *File | Save*.  **Don't change the name of index.html. It must be called "index."**
+11. Change the generic title, headline and footer in *index.html* to personalize it. *index.html* is the webpage that loads your program. To protect your privacy, you should not use your full and complete name on any webpage you create for a school assignment. Change the text on line 4, 11 and 18, then choose *File | Save*.  **Don't change the name of `index.html`. It must be called "index."**
 ![Image 7](/images/SampleAssignment7.png)
 
 12. Go back to the Git Bash program and navigate to the *SampleAssignment* folder. Check your current location by typing `pwd`, (your *present working directory*). Type `ls` to list the files and folders. You should see a screen similar to this:  
